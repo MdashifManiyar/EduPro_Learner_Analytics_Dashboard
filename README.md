@@ -213,12 +213,9 @@ This project successfully converted EduPro's raw transactional data into clear, 
 **Mohammed Ashif Maniyar**
 Data Analytics Intern — Unified Mentor
 
-| Platform | Link |
-|---|---|
-| 📧 Email | mdasifmaniyar73@gmail.com |
-| 💼 LinkedIn | https://www.linkedin.com/in/mohammed-ashif-maniyar-95b347152 |
-| 🐙 GitHub | [github.com/your-username](https://github.com/MdashifManiyar/EduPro_Learner_Analytics_Dashboard) |
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mohammed-ashif-maniyar-95b347152)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/MdashifManiyar/nassau_candy-profitability_and_margin_performance_analysis)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mdasifmaniyar73@gmail.com)
 > **Internship Program:** Unified Mentor — Data Analytics Track
 > **Project Type:** Portfolio / Internship Deliverable
 > **Year:** 2026
