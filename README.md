@@ -1,4 +1,4 @@
-# 📚 EduPro Learner Analytics Dashboard
+# EduPro Learner Analytics Dashboard
 
 > Exploratory Data Analysis of learner demographics and course enrollment behavior on an online learning platform — built as a portfolio project during a Data Analytics Internship at Unified Mentor.
 
