@@ -217,7 +217,7 @@ Data Analytics Intern — Unified Mentor
 |---|---|
 | 📧 Email | mailto:mdasifmaniyar73@gmail.com |
 | 💼 LinkedIn | https://www.linkedin.com/in/mohammed-ashif-maniyar-95b347152 |
-| 🐙 GitHub | github.com/your-username |
+| 🐙 GitHub | [github.com/your-username](https://github.com/MdashifManiyar/EduPro_Learner_Analytics_Dashboard) |
 
 > **Internship Program:** Unified Mentor — Data Analytics Track
 > **Project Type:** Portfolio / Internship Deliverable
