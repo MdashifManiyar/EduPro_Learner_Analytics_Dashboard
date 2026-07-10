@@ -213,7 +213,7 @@ This project successfully converted EduPro's raw transactional data into clear, 
 **Mohammed Ashif Maniyar**
 Data Analytics Intern — Unified Mentor
 
-🌐 Streamlit Live Dashboard: [https://your-app.streamlit.app](https://eduprolearneranalyticsdashboard-ashif2.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?logo=streamlit)](https://eduprolearneranalyticsdashboard-ashif2.streamlit.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mohammed-ashif-maniyar-95b347152)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/MdashifManiyar/EduPro_Learner_Analytics_Dashboard/tree/main)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mdasifmaniyar73@gmail.com)
